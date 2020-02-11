@@ -1,10 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "./Input.css";
 
-class Input extends Component {
-  render() {
-    return <div className="input">{this.props.children}</div>;
-  }
-}
-
-export default Input;
+export const Input = props => <div className="input">{props.input}</div>;
