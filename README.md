@@ -2,4 +2,4 @@
 
 Calculator app using reactjs.
 
-![alt text][calculator.PNG]
+![alt text](https://github.com/nazim806/calculator-App/blob/master/images/calculator.PNG)
