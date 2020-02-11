@@ -1,3 +1,3 @@
 # calculator
 
-Calculator using react.
+Calculator app using reactjs.
